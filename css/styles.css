@@ -1,0 +1,30 @@
+figure {
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+}
+
+figure img {
+     width: 100%;
+     height: 60%;
+    }
+
+.temp {
+    padding: 10px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.link {
+    position: absolute;
+    top: -20px;
+    right: 0px;
+}
+
+.season {
+    display: none;
+}
