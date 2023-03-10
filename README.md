@@ -1,5 +1,5 @@
 # SeasonApp-frontend
-This repo is to demonstrate the use of client side rendering for ASP.NET Season application.
+This repo is to demonstrate the use of client side rendering for ASP.NET Season application created in https://github.com/williamphk/SeasonApp.
 
 Key Files for this Project:
 
